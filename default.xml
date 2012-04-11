@@ -12,7 +12,14 @@
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
            revision="ics" />
-
+           
+ <remote  name="kang"
+           fetch="https://AOKP@github.com/AOKP/"
+           revision="master" />
+           
+  <remote  name="madness"
+           fetch="https://github.com/anathma" />
+           
   <default remote="aosp"
            sync-j="4" />
 
